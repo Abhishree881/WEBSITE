@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 /* eslint-disable @next/next/no-img-element */
 'use client';
 import React, { useEffect } from 'react';
@@ -150,7 +151,7 @@ const App: React.FC = () => {
           <h1 className="aboutheading">About Campus</h1>
           <hr className="complete" />
           <p className="aboutparagraph">
-            On Jun 30, 2015 Hon'ble Chief Minister, Mamata Banerjee laid the foundation stone of the Indian Institute of Information Technology (IIIT)
+            On Jun 30, 2015 Hon\'ble Chief Minister, Mamata Banerjee laid the foundation stone of the Indian Institute of Information Technology (IIIT)
             campus in Kalyani.The campus will be built on 50 acres on Kalyani Expressway on the outskirts of Kalyani town.
           </p>
         </div>
