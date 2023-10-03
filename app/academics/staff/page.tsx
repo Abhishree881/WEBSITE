@@ -14,7 +14,7 @@ const array = [
     {
         headings: [
             { label: 'Technical Team', id: 1 },
-            { label: 'Employees', id: 2 },
+            // { label: 'Employees', id: 2 },
         ],
     },
     {
@@ -79,7 +79,7 @@ const Staff = () => {
                         <EmployeeCard name='Amit Kumar Sadhukhan' position='Technical Assistant' email='aks1991@yahoo.com' dp={MapDP.get("Amit")} />
                         <EmployeeCard name='Sreejoyee Das' position='Technical Assitant' email='sreejoyee@iiitkalyani.ac.in' dp={MapDP.get("Sreejoyee")} />
                     </div>
-                    <span className='staff-sub-header'>
+                    {/* <span className='staff-sub-header'>
                         <h1>IIIT Kalyani Employees</h1>
                     </span>
                     <hr />
@@ -90,7 +90,7 @@ const Staff = () => {
                         <EmployeeCard name='Twinkle Jena' position='Junior Assistant (Administration)' email='ja_admin@iiitkalyani.ac.in' dp={MapDP.get("Twinkle")} />
                         <EmployeeCard name='Sourav Gope' position='Junior Assistant (Director Office)' email='sourav@iiitkalyani.ac.in' dp={MapDP.get("Sourav")} />
                         <EmployeeCard name='Debottam Biswas' position='Junior Assistant (Finance & Accounts)' email='debottam@iiitkalyani.ac.in' dp={MapDP.get("Debottam")} />
-                    </div>
+                    </div> */}
 
                 </div>
             </div>

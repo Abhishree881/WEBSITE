@@ -22,6 +22,7 @@ const acadamics = [
     items: [
       { label: "Programmes", link: "/academics/programs" },
       { label: "Faculty", link: "/academics/faculty" },
+      { label: "Academic Staff ", link: "/academics/staff" },
       { label: 'Admissions', link: '/academics/admissions' },
       { label: 'Academic Calendar', link: '/academics/academic-calendar' },
       { label: 'Course Structure', link: '/academics/coursestr' },
@@ -42,7 +43,6 @@ const about = [
         link: "/pdf/NIRF/INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, KALYANI20220228-.pdf",
       },
       { label: "Why IIIT Kalyani", link: "/about/whyiiitkalyani" },
-      { label: "Staff", link: "/about/staff" },
       { label: "Gallery", link: "/about/gallery/parikshapecharcha2022" },
       { label: "All Facilities", link: "/about/facilities" },
       { label: "Gymkhana", link: "/about/gymkhana" },
@@ -56,6 +56,8 @@ const administration = [
         label: "Administrative Body",
         link: "/administration/administrative-body",
       },
+      { label: "Adminstartion Staff", link: "/administration/staff" },
+
       {
         label: "Board of Governers",
         link: "/pdf/BOG/IIIT Kalyani_full_BoG.pdf",
