@@ -21,6 +21,7 @@
 
 .employee-dp img {
     width: 100%;
+    border-radius: 10px;
     aspect-ratio: 1/1;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
@@ -69,7 +70,7 @@
 
 @media (max-width:550px) {
     .employee-card {
-        width: 70%;
-        padding: 5%;
+        width: 90%;
+        padding: 4%;
     }
 }
