@@ -24,7 +24,7 @@ const customAnimation = keyframes`
 
 
 const DirectorsMessage = () => {
-    let card1ImageLink = '/images/director.webp'
+    let card1ImageLink = '/images/director.jpg'
     const [scrolling, setScrolling] = useState(1);
     const [seconds, setSeconds] = useState(1);
     const [i, setI] = useState(1);

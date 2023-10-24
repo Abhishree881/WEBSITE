@@ -1,7 +1,7 @@
-import dirImg from './images/dirImg.jpg'
+import director from './images/director.jpg'
 import dirSign from './images/dirsign.png'
 const directorData = {
-    dirImg:dirImg,
+    dirImg:director,
     dirSign:dirSign
 }
 
