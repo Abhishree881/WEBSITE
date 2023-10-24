@@ -4,16 +4,11 @@ import { useEffect, useState } from "react";
 
 const carouselData = [
     {
-        url: '/images/carousel/Picture1.webp',
+        url: '/images/carousel/Picture1.jpg',
         title: 'Welcome to IIIT Kalyani',
         subtitle: ''
     },
 
-    {
-        url: '/images/carousel/Precaution_Dose_Eng.webp',
-        title: '',
-        subtitle: ''
-    },
     {
         url: '/images/carousel/p4.webp',
         title: '',
@@ -25,16 +20,22 @@ const carouselData = [
         subtitle: ''
     },
     {
-        url: '/images/carousel/Picture2.webp',
+        url: '/images/carousel/Precaution_Dose_Eng.jpg',
         title: '',
-        subtitle: ""
+        subtitle: ''
     },
-
     {
-        url: '/images/carousel/Picture3.webp',
+        url: '/images/carousel/Picture3.jpg',
         title: '',
         subtitle: ""
     },
+    {
+        url: '/images/carousel/Picture2.jpg',
+        title: '',
+        subtitle: ""
+    }
+
+
 
 ];
 
