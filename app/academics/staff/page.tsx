@@ -45,15 +45,15 @@ const Staff = () => {
 
     const MapDP = new Map();
 
-    MapDP.set("Samim", "/staff/samim.webp");
-    MapDP.set("Amit", "/staff/amit.webp");
-    MapDP.set("Sreejoyee", "/staff/srejoyee.webp");
-    MapDP.set("Moupriya", "/staff/md.webp");
-    MapDP.set("Rathin", "/staff/rp.webp");
+    MapDP.set("Samim", "/staff/samim.jpg");
+    MapDP.set("Amit", "/staff/amit.jpg");
+    MapDP.set("Sreejoyee", "/staff/srejoyee.jpg");
+    MapDP.set("Moupriya", "/staff/md.jpg");
+    MapDP.set("Rathin", "/staff/rp.jpg");
     MapDP.set("Sanju", "/staff/sb.webp");
-    MapDP.set("Twinkle", "/staff/Twinkle.webp");
-    MapDP.set("Sourav", "/staff/sourav.webp");
-    MapDP.set("Debottam", "/staff/db.webp");
+    MapDP.set("Twinkle", "/staff/Twinkle.jpg");
+    MapDP.set("Sourav", "/staff/sourav.jpg");
+    MapDP.set("Debottam", "/staff/db.jpg");
 
     return (
 
