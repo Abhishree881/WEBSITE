@@ -29,7 +29,7 @@ const acadBodyData = [
     name: "Mr. Dhiraj Jhawar",
     designation: "Assistant Registrar, Finance & Accounts",
     info: "",
-    email: ["Not available"],
+    email: ["dhiraj@iiitkalyani.ac.in"],
   },
 ];
 
