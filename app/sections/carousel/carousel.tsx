@@ -20,15 +20,10 @@ const carouselData = [
         subtitle: ''
     },
     {
-<<<<<<< HEAD
         url: '/images/carousel/Precaution_Dose_Eng.jpg',
-=======
-        url: '/images/carousel/Picture2.jpg',
->>>>>>> 9f2d04da1a2e48bf459d234c26d3d4e5d36a616f
         title: '',
         subtitle: ''
     },
-<<<<<<< HEAD
     {
         url: '/images/carousel/Picture3.jpg',
         title: '',
@@ -41,14 +36,6 @@ const carouselData = [
     }
 
 
-=======
-
-    // {
-    //     url: '/images/carousel/Picture3.jpg',
-    //     title: '',
-    //     subtitle: ""
-    // },
->>>>>>> 9f2d04da1a2e48bf459d234c26d3d4e5d36a616f
 
 ];
 

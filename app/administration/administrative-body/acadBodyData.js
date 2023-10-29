@@ -1,6 +1,6 @@
 const acadBodyData = [
   {
-    imgUrl: "/adminstrative/director.jpg",
+    imgUrl: "/adminstrative/director.webp",
     name: "Prof. Santanu Chattopadhyay",
     designation: "Director",
     info: "Professor, Electronics & Electrical Communication Engineering, Indian Institute of Technology Kharagpur",
@@ -25,11 +25,11 @@ const acadBodyData = [
     linkedIn: "https://www.linkedin.com/in/madhumita-sengupta-2547a967/",
   },
   {
-    imgUrl: "/adminstrative/profile.jpg",
+    imgUrl: "/adminstrative/profile.webp",
     name: "Mr. Dhiraj Jhawar",
     designation: "Assistant Registrar, Finance & Accounts",
     info: "",
-    email: ["dhiraj@iiitkalyani.ac.in"],
+    email: ["Not available"],
   },
 ];
 

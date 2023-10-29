@@ -1,6 +1,6 @@
 const facultyData = [
   {
-    imgUrl: "/faculty/director.jpg",
+    imgUrl: "/faculty/director.webp",
     name: "Prof. Santanu Chattopadhyay",
     designation: "Professor and Director",
     eduaction: "",
@@ -15,7 +15,7 @@ const facultyData = [
     more: "https://www.iitkgp.ac.in/department/EC/faculty/ec-santanu",
   },
   {
-    imgUrl: "/faculty/bchanda.jpg",
+    imgUrl: "/faculty/bchanda.webp",
     name: "Prof. Bhabatosh Chanda",
     designation: "Professor (Visiting)",
     eduaction: "",
@@ -30,7 +30,7 @@ const facultyData = [
     more: "https://sites.google.com/view/bchanda/home?authuser=0",
   },
   {
-    imgUrl: "/faculty/Amit Ranjan Azad.jpg",
+    imgUrl: "/faculty/Amit Ranjan Azad.webp",
     name: "Dr. Amit Ranjan Azad",
     designation: "Assistant Professor",
     eduaction: "",
@@ -39,7 +39,7 @@ const facultyData = [
     more: "Dr_Amit_Ranjan_Azad",
   },
   {
-    imgUrl: "/faculty/al.jpg",
+    imgUrl: "/faculty/al.webp",
     name: "Dr. Anirban Lakshman",
     designation: "Assistant Professor",
     eduaction: "",
@@ -57,7 +57,7 @@ const facultyData = [
     more: "Dr_Bhaskar_Biswas",
   },
   {
-    imgUrl: "/faculty/bapi.jpg",
+    imgUrl: "/faculty/bapi.webp",
     name: "Dr. Bapi Kar",
     designation: "Assistant Professor (On Contract)",
     eduaction: "",
@@ -70,7 +70,7 @@ const facultyData = [
     more: "Dr_Bapi_Kar",
   },
   {
-    imgUrl: "/faculty/dalia.jpg",
+    imgUrl: "/faculty/dalia.webp",
     name: "Dr. Dalia Nandi (Das)",
     designation: "Assistant Professor",
     eduaction: "",
@@ -94,7 +94,7 @@ const facultyData = [
     more: "Dr_Debasish_Bera",
   },
   {
-    imgUrl: "/faculty/imon.jpg",
+    imgUrl: "/faculty/imon.webp",
     name: "Dr. Imon Mukherjee",
     designation: "Assistant Professor",
     eduaction: "",
@@ -107,7 +107,7 @@ const facultyData = [
     more: "Dr_Imon_Mukherjee",
   },
   {
-    imgUrl: "/faculty/ob.jpg",
+    imgUrl: "/faculty/ob.webp",
     name: "Dr. Oishila Bandyopadhyay",
     designation: "Assistant Professor",
     eduaction: "",
@@ -120,7 +120,7 @@ const facultyData = [
     more: "Dr_Oishila_Bandyopadhyay",
   },
   {
-    imgUrl: "/faculty/pratik.jpg",
+    imgUrl: "/faculty/pratik.webp",
     name: "Dr. Pratik Chakraborty",
     designation: "Assistant Professor",
     eduaction: "",
@@ -129,7 +129,7 @@ const facultyData = [
     more: "Dr_Pratik_Chakraborty",
   },
   {
-    imgUrl: "/faculty/rs.jpg",
+    imgUrl: "/faculty/rs.webp",
     name: "Dr. Rinky Sha",
     designation: "Assistant Professor",
     eduaction: "",
@@ -145,7 +145,7 @@ const facultyData = [
     more: "Dr_Rinky_Sha",
   },
   {
-    imgUrl: "/faculty/sc.jpg",
+    imgUrl: "/faculty/sc.webp",
     name: "Dr. Sanjay Chatterji",
     designation: "Assistant Professor",
     eduaction: "",
@@ -154,7 +154,7 @@ const facultyData = [
     more: "Dr_Sanjay_Chatterji",
   },
   {
-    imgUrl: "/faculty/sp.jpg",
+    imgUrl: "/faculty/sp.webp",
     name: "Dr. Sanjoy Pratihar",
     designation: "Assistant Professor",
     eduaction: "",
@@ -167,7 +167,7 @@ const facultyData = [
     more: "Dr_Sanjoy_Pratihar",
   },
   {
-    imgUrl: "/faculty/skh.jpg",
+    imgUrl: "/faculty/skh.webp",
     name: "Dr. SK Hafizul Islam",
     designation: "Assistant Professor",
     eduaction: "",
@@ -176,7 +176,7 @@ const facultyData = [
     more: "Dr_SK_Hafizul_Islam",
   },
   {
-    imgUrl: "/faculty/sudeshna.jpg",
+    imgUrl: "/faculty/sudeshna.webp",
     name: "Dr. Sudeshna Mondal",
     designation: "Assistant Professor (On Contract)",
     eduaction: "",
@@ -189,7 +189,7 @@ const facultyData = [
     more: "Dr_Sudeshna_Mondal",
   },
   {
-    imgUrl: "/faculty/ud.jpg",
+    imgUrl: "/faculty/ud.webp",
     name: "Dr. Uma Das",
     designation: "Assistant Professor",
     eduaction: "",
