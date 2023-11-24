@@ -4,6 +4,11 @@ const noticeBoardData = [
     title: "General Notice",
     children: [
       {
+        title: "Office Order 192 @ Grievance Redressal Sub Committee",
+        url: "/e-noticeboard/general-notice/",
+        isNew: false,
+      },
+      {
         title: "Order of Revised HRA-27%",
         url: "/e-noticeboard/general-notice/HRA_order.pdf",
         isNew: false,
