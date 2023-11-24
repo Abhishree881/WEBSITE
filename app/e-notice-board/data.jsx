@@ -5,7 +5,7 @@ const noticeBoardData = [
     children: [
       {
         title: "Office Order 192 @ Grievance Redressal Sub Committee",
-        url: "/e-noticeboard/general-notice/",
+        url: "/e-noticeboard/general-notice/20230802174847-1.pdf",
         isNew: false,
       },
       {
@@ -35,6 +35,26 @@ const noticeBoardData = [
     id: 1,
     title: "Ph.D Notification",
     children: [
+      {
+        title: "List of Candidates Shortlisted for PhD Admission Test/Interview (Visvesvaraya JRF -Autumn 23-24)",
+        url: "/e-noticeboard/phd-notification/Admission_screening Autumn 22-23 list_website-1.pdf",
+        isNew: false,
+      },
+      {
+        title: "Corrigendum for Ph.D. Admission (Visvesvaraya)",
+        url: "/e-noticeboard/phd-notification/Corrigendum _Ph.D. Admissions Visvesvaraya.pdf",
+        isNew: false,
+      },
+      {
+        title: "PHD Admission Advt [Visvesvaraya2023]",
+        url: "/e-noticeboard/phd-notification/PHD Admission Advt_Website[Visvesvaraya2023].pdf",
+        isNew: false,
+      },
+      {
+        title: "PhD Application form VP",
+        url: "/e-noticeboard/phd-notification/PhD Application form_VP.pdf",
+        isNew: false,
+      },
       {
         title: "PhD admission(Autumn 23- 24) result",
         url: "/e-noticeboard/phd-notification/Selected list_PhD Admission Autumn23-24.pdf",
