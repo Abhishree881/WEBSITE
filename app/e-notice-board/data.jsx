@@ -4,6 +4,11 @@ const noticeBoardData = [
     title: "General Notice",
     children: [
       {
+        title: "Office Order 192 @ Grievance Redressal Sub Committee",
+        url: "/e-noticeboard/general-notice/20230802174847-1.pdf",
+        isNew: false,
+      },
+      {
         title: "Order of Revised HRA-27%",
         url: "/e-noticeboard/general-notice/HRA_order.pdf",
         isNew: false,
@@ -30,6 +35,26 @@ const noticeBoardData = [
     id: 1,
     title: "Ph.D Notification",
     children: [
+      {
+        title: "List of Candidates Shortlisted for PhD Admission Test/Interview (Visvesvaraya JRF -Autumn 23-24)",
+        url: "/e-noticeboard/phd-notification/Admission_screening Autumn 22-23 list_website-1.pdf",
+        isNew: false,
+      },
+      {
+        title: "Corrigendum for Ph.D. Admission (Visvesvaraya)",
+        url: "/e-noticeboard/phd-notification/Corrigendum _Ph.D. Admissions Visvesvaraya.pdf",
+        isNew: false,
+      },
+      {
+        title: "PHD Admission Advt [Visvesvaraya2023]",
+        url: "/e-noticeboard/phd-notification/PHD Admission Advt_Website[Visvesvaraya2023].pdf",
+        isNew: false,
+      },
+      {
+        title: "PhD Application form VP",
+        url: "/e-noticeboard/phd-notification/PhD Application form_VP.pdf",
+        isNew: false,
+      },
       {
         title: "PhD admission(Autumn 23- 24) result",
         url: "/e-noticeboard/phd-notification/Selected list_PhD Admission Autumn23-24.pdf",
@@ -163,43 +188,53 @@ const noticeBoardData = [
     title: "Tender",
     children: [
       {
-        title: "Corrigendum for Supply of Answer Scripts",
-        url: "/e-noticeboard/tender/Corrigendum_Answer Scripts.pdf",
+        title: "Corrigendum Student Medical Insurance",
+        url: "/e-noticeboard/tender/Corrigendum Student Medical Insurance .pdf",
         isNew: false,
       },
       {
-        title: "Tender for Procurement of Answer Scripts",
-        url: "/e-noticeboard/tender/Tender_for_procurement_of_Answer_Scripts.pdf",
+        title: "EOI Student Medical Insurance",
+        url: "/e-noticeboard/tender/EOI Student Medical Insurance-1.pdf",
         isNew: false,
       },
       {
-        title: "Tender for Internal Auditor",
-        url: "/e-noticeboard/tender/Tender_for_Internal_Auditor.pdf",
+        title: "Tender for Electric Work",
+        url: "/e-noticeboard/tender/Tender for Electric Work.pdf",
         isNew: false,
       },
       {
-        title: "Tender for USB Adapter",
-        url: "/e-noticeboard/tender/Tender_for_USB_Adapter.pdf",
+        title: "EOI for Selection of Agency for Supply of Refreshment for Intra College FUTSAL Tournament",
+        url: "/e-noticeboard/tender/EOI.pdf",
         isNew: false,
       },
       {
-        title: "Corrigendum Supply of USB Adapter",
-        url: "/e-noticeboard/tender/Corrigendum_Supply_of_USB_Adapter.pdf",
+        title: "Corrigendum for Selection of Agency for providing Food for Cultural Day",
+        url: "/e-noticeboard/tender/foodforculturalday.webp",
         isNew: false,
       },
       {
-        title: "Corrigendum Supply of Sports Items",
-        url: "/e-noticeboard/tender/Corrigendum_Supply_of_Sports_Items.pdf",
+        title: "Tender for Procurement of Matlab Software",
+        url: "/e-noticeboard/tender/Tender for Procurement of Matlab Software-1.pdf",
         isNew: false,
       },
       {
-        title: "Tender for Supply of USB Adapter",
-        url: "/e-noticeboard/tender/Tender_for_Supply_of_USB_Adapter.pdf",
+        title: "EOI for Selection of Agency for providing Food for Cultural Day",
+        url: "/e-noticeboard/tender/EOI for Selection of Agency for providing Food for Cultural Day.pdf",
         isNew: false,
       },
       {
-        title: "Tender for Supply of Sports Items",
-        url: "/e-noticeboard/tender/Tender_for_Supply_of_Sports_Items.pdf",
+        title: "Tender for Answer Scripts",
+        url: "/e-noticeboard/tender/Tender for Answer Scripts.pdf",
+        isNew: false,
+      },
+      {
+        title: "Corrigendum for Supply of AnswerScripts",
+        url: "/e-noticeboard/tender/Corrigendum for Supply of AnswerScripts.pdf",
+        isNew: false,
+      },
+      {
+        title: "Tender for Marksheets and Certificates",
+        url: "/e-noticeboard/tender/Tender for Marksheets and Certificates.pdf",
         isNew: false,
       },
     ],
