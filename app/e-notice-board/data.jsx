@@ -67,6 +67,76 @@ const noticeBoardData = [
     title: "Recruitment",
     children: [
       {
+        title: "Final list of Shortlisted candidates after representation for the post of ‘Registrar’",
+        url: "/e-noticeboard/recruitment/Final_list_of_Shortlisted_candidates_after_representation.pdf",
+        isNew: false,
+      },
+      {
+        title: "Shortlisted candidates for interview for the post of JRF for the project 'Cyclone Intensity and Track Prediction using Deep Learning'",
+        url: "/e-noticeboard/recruitment/List of Shortlisted candidates for JRF Recruitment CITDL 12.10.pdf",
+        isNew: false,
+      },
+      {
+        title: "Shortlisted candidates list for the post of Assistant Registrar (On Contract)",
+        url: "/e-noticeboard/recruitment/Shortlisted and not shortlisted candidates for website.pdf",
+        isNew: false,
+      },
+      {
+        title: "Advertisement for JRF (CSE/Physics) Position in a Research Project (‘Cyclone Intensity and Track Prediction using Deep Learning’)",
+        url: "/e-noticeboard/recruitment/Advertisement for the post of JRF_.pdf",
+        isNew: false,
+      },
+      {
+        title: "Advertisement for JRF (CSE/Physics) Position in a Research Project (‘Cyclone Intensity and Track Prediction using Deep Learning’) -> Application Form(PDF)",
+        url: "/e-noticeboard/recruitment/applicationform.pdf",
+        isNew: false,
+      },
+      {
+        title: "Advertisement for the post of Junior Technician",
+        url: "/e-noticeboard/recruitment/Advertisement for the post of Junior Technician.pdf",
+        isNew: false,
+      },
+      {
+        title: "Advertisement for the post of Junior Technician-->Form",
+        url: "/e-noticeboard/recruitment/Form Junior Technician.pdf",
+        isNew: false,
+      },
+      {
+        title: "Shortlisted candidates name for project VLSI(C2S, MeitY)",
+        url: "/e-noticeboard/recruitment/Scan2023-09-11_114447.pdf",
+        isNew: false,
+      },
+      {
+        title: "Corrigendum against Advertisement for the post of Junior Technician",
+        url: "/e-noticeboard/recruitment/Corrigendum against Advertisement for the post of Junior Technician.pdf",
+        isNew: false,
+      },
+      {
+        title: "Provisional Final list of Shortlisted candidates after representation for the post of ‘Registrar’",
+        url: "/e-noticeboard/recruitment/Shortlisted candidates list for website after publishing.pdf",
+        isNew: false,
+      },
+      {
+        title: "Advertisement for Project Associates",
+        url: "/e-noticeboard/recruitment/Advertisement_for_the_post_of_project_Associate.pdf",
+        isNew: false,
+      },
+      {
+        title: "Advertisement for Non-Faculty Positions-Assistant Registrar(Contractual)",
+        url: "/e-noticeboard/recruitment/Advertisement.pdf",
+        isNew: false,
+      },
+      {
+        title: "Application format - Assistant Registrar",
+        url: "/e-noticeboard/recruitment/Application format - Assistant Registrar.pdf",
+        isNew: false,
+      },
+      {
+        title: "Shortlisted candidates list for Registrar",
+        url: "/e-noticeboards/recruitment/Shortlisted candidates list for website_Registrar.pdf",
+        isNew: false,
+      },
+      {
         title:
           "Advertisement for Junior Technician (on contract) for Communication/Signal Processing Laboratory",
         url: "/e-noticeboard/recruitment/Junior Technician.pdf",
