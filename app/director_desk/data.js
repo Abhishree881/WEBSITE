@@ -1,4 +1,4 @@
-import dirImg from './images/dirImg.jpg'
+import dirImg from './images/dirImg.webp'
 import dirSign from './images/dirsign.png'
 const directorData = {
     dirImg:dirImg,
