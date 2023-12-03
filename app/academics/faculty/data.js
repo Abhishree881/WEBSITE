@@ -15,7 +15,7 @@ const facultyData = [
     more: "https://www.iitkgp.ac.in/department/EC/faculty/ec-santanu",
   },
   {
-    imgUrl: "/faculty/bchanda.webp",
+    imgUrl: "/faculty/bchanda.jpg",
     name: "Prof. Bhabatosh Chanda",
     designation: "Professor (Visiting)",
     eduaction: "",
