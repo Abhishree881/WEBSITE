@@ -258,6 +258,11 @@ const noticeBoardData = [
     title: "Tender",
     children: [
       {
+        title: "EOI for Convocation Management",
+        url: "/e-noticeboard/tender/EOI_for_Convocation_Management.pdf",
+        isNew: false,
+      },
+      {
         title: "Corrigendum Student Medical Insurance",
         url: "/e-noticeboard/tender/Corrigendum Student Medical Insurance .pdf",
         isNew: false,
