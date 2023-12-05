@@ -84,14 +84,14 @@ const page = () => {
                     </a>
                     <br />
                     <a
-                      href="/downloads//downloads/images/notification2021/Minutes_BWC_4_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/MinutesBWC4IIITKalyani.pdf"
                       target="_blank"
                     >
                       Minutes BWC 4 IIIT Kalyani
                     </a>
                     <br />
                     <a
-                      href="/downloads//downloads/images/Minutes_BWC_5_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/Minutes_BWC_5_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Minutes BWC 5 IIIT Kalyani
@@ -341,7 +341,7 @@ const page = () => {
                   <td>BOG 1</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/bog_mom/Minutes_BoG_1_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/bog_mom/Minutes_BoG_1_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
@@ -352,14 +352,14 @@ const page = () => {
                   <td>BOG 2</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/Minutes_BoG_2_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/bog_mom/Minutes_BoG_2_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
                     </a>
                     <br />
                     <a
-                      href="/downloads//downloads/images/Annexure.zip"
+                      href="/downloads/downloads/bog_mom/Annexure.zip"
                       target="_blank"
                     >
                       Click here to download [Part 2]
@@ -370,7 +370,7 @@ const page = () => {
                   <td>BOG 3</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/approved_minutes_3rd_BoG.pdf"
+                      href="/downloads/downloads/bog_mom/approved_minutes_3rd_BoG.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
@@ -382,7 +382,7 @@ const page = () => {
                   <td>BOG 4</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/Minutes_BoG_4_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/bog_mom/Minutes_BoG_4_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
@@ -394,7 +394,7 @@ const page = () => {
                   <td>GB 1</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/bog_mom/Minutes_GB_1_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/bog_mom/Minutes_GB_1_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
@@ -405,7 +405,7 @@ const page = () => {
                   <td>GB 2</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/bog_mom/Minutes_GB_2_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/bog_mom/Minutes_GB_2_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
@@ -416,7 +416,7 @@ const page = () => {
                   <td>GB 3</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/bog_mom/Minutes_GB_3_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/bog_mom/Minutes_GB_3_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
@@ -427,7 +427,7 @@ const page = () => {
                   <td>GB 4</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/bog_mom/Minutes_GB_4_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/bog_mom/Minutes_GB_4_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
@@ -438,7 +438,7 @@ const page = () => {
                   <td>GB 5</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/bog_mom/Minutes_GB_5_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/bog_mom/Minutes_GB_5_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Click here to download
@@ -449,7 +449,7 @@ const page = () => {
                   <td>GB 6</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/bog_mom/Minutes_GB_6_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/bog_mom/Minutes_GB_6_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Click here to download
@@ -460,7 +460,7 @@ const page = () => {
                   <td>GB 7</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/bog_mom/Minutes_GB_7_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/bog_mom/Minutes_GB_7_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Click here to download
@@ -471,7 +471,7 @@ const page = () => {
                   <td>GB 8</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/bog_mom/Minutes_GB_8_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/bog_mom/Minutes_GB_8_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Click here to download
@@ -482,7 +482,7 @@ const page = () => {
                   <td>GB 9</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/bog_mom/Minutes_GB_9_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/bog_mom/Minutes_GB_9_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Click here to download
@@ -493,7 +493,7 @@ const page = () => {
                   <td>GB 10</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/bog_mom/Minutes_GB_10_IIIT_Kalyani.pdf"
+                      href="/downloads/downloads/bog_mom/Minutes_GB_10_IIIT_Kalyani.pdf"
                       target="_blank"
                     >
                       Click here to download
@@ -511,7 +511,7 @@ const page = () => {
                   <td>Minutes of 1st Senate Meeting</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/notification2021/Minutes_of_1st_Senate_Meeting.pdf"
+                      href="/downloads/downloads/MinutesofSenateMeetings/Minutes_of_1st_Senate_Meeting.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
@@ -522,7 +522,7 @@ const page = () => {
                   <td>Minutes of 2nd Senate Meeting</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/notification2021/Minutes_of_2nd_Senate_Meeting.pdf"
+                      href="/downloads/downloads/MinutesofSenateMeetings/Minutes_of_2nd_Senate_Meeting.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
@@ -533,7 +533,7 @@ const page = () => {
                   <td>Minutes of 3rd Senate Meeting</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/notification2021/Minutes_of_3rd_Senate_Meeting.pdf"
+                      href="/downloads/downloads/MinutesofSenateMeetings/Minutes_of_3rd_Senate_Meeting.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
@@ -544,7 +544,7 @@ const page = () => {
                   <td>Minutes of 4th Senate Meeting</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/notification2021/Minutes_of_4th_Senate_Meeting.pdf"
+                      href="/downloads/downloads/MinutesofSenateMeetings/Minutes_of_4th_Senate_Meeting.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
@@ -555,7 +555,7 @@ const page = () => {
                   <td>Minutes of 5th Senate Meeting</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/Minutes_of_5th_Senate_Meeting.pdf"
+                      href="/downloads/downloads/MinutesofSenateMeetings/Minutes_of_5th_Senate_Meeting.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
@@ -566,7 +566,7 @@ const page = () => {
                   <td>Minutes of 6th Senate Meeting</td>
                   <td>
                     <a
-                      href="/downloads//downloads/images/Minutes_of_6th_Senate_Meeting.pdf"
+                      href="/downloads/downloads/MinutesofSenateMeetings/Minutes_of_6th_Senate_Meeting.pdf"
                       target="_blank"
                     >
                       Click here to download{" "}
