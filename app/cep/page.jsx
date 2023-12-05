@@ -15,7 +15,7 @@ const page = () => {
       <ul style={{ listStyle: "circle" }}>
         {educationProgram.map((index) => {
           return (
-            <a href={index.description}>
+            <a href={index.url}>
               <li>{index.title} </li>
             </a>
           );
