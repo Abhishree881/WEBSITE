@@ -42,7 +42,7 @@ const noticeBoardData = [
       },
       {
         title: "Corrigendum for Ph.D. Admission (Visvesvaraya)",
-        url: "/e-noticeboard/phd-notification/Corrigendum _Ph.D. Admissions Visvesvaraya.pdf",
+        url: "/e-noticeboard/phd-notification/Corrigendum%20_Ph.D.%20Admissions%20Visvesvaraya%20.pdf",
         isNew: false,
       },
       {
@@ -133,7 +133,7 @@ const noticeBoardData = [
       },
       {
         title: "Shortlisted candidates list for Registrar",
-        url: "/e-noticeboards/recruitment/Shortlisted candidates list for website_Registrar.pdf",
+        url: "/e-noticeboard/recruitment/Shortlisted candidates list for website_Registrar.pdf",
         isNew: false,
       },
       {
