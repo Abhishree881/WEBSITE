@@ -4,6 +4,11 @@ const noticeBoardData = [
     title: "General Notice",
     children: [
       {
+        title: "Office Order 192 @ Grievance Redressal Sub Committee",
+        url: "/e-noticeboard/general-notice/20230802174847-1.pdf",
+        isNew: false,
+      },
+      {
         title: "Order of Revised HRA-27%",
         url: "/e-noticeboard/general-notice/HRA_order.pdf",
         isNew: false,
@@ -31,6 +36,26 @@ const noticeBoardData = [
     title: "Ph.D Notification",
     children: [
       {
+        title: "List of Candidates Shortlisted for PhD Admission Test/Interview (Visvesvaraya JRF -Autumn 23-24)",
+        url: "/e-noticeboard/phd-notification/Admission_screening Autumn 22-23 list_website-1.pdf",
+        isNew: false,
+      },
+      {
+        title: "Corrigendum for Ph.D. Admission (Visvesvaraya)",
+        url: "/e-noticeboard/phd-notification/Corrigendum%20_Ph.D.%20Admissions%20Visvesvaraya%20.pdf",
+        isNew: false,
+      },
+      {
+        title: "PHD Admission Advt [Visvesvaraya2023]",
+        url: "/e-noticeboard/phd-notification/PHD Admission Advt_Website[Visvesvaraya2023].pdf",
+        isNew: false,
+      },
+      {
+        title: "PhD Application form VP",
+        url: "/e-noticeboard/phd-notification/PhD Application form_VP.pdf",
+        isNew: false,
+      },
+      {
         title: "PhD admission(Autumn 23- 24) result",
         url: "/e-noticeboard/phd-notification/Selected list_PhD Admission Autumn23-24.pdf",
         isNew: false,
@@ -41,6 +66,76 @@ const noticeBoardData = [
     id: 2,
     title: "Recruitment",
     children: [
+      {
+        title: "Final list of Shortlisted candidates after representation for the post of ‘Registrar’",
+        url: "/e-noticeboard/recruitment/Final_list_of_Shortlisted_candidates_after_representation.pdf",
+        isNew: false,
+      },
+      {
+        title: "Shortlisted candidates for interview for the post of JRF for the project 'Cyclone Intensity and Track Prediction using Deep Learning'",
+        url: "/e-noticeboard/recruitment/List of Shortlisted candidates for JRF Recruitment CITDL 12.10.pdf",
+        isNew: false,
+      },
+      {
+        title: "Shortlisted candidates list for the post of Assistant Registrar (On Contract)",
+        url: "/e-noticeboard/recruitment/Shortlisted and not shortlisted candidates for website.pdf",
+        isNew: false,
+      },
+      {
+        title: "Advertisement for JRF (CSE/Physics) Position in a Research Project (‘Cyclone Intensity and Track Prediction using Deep Learning’)",
+        url: "/e-noticeboard/recruitment/Advertisement for the post of JRF_.pdf",
+        isNew: false,
+      },
+      {
+        title: "Advertisement for JRF (CSE/Physics) Position in a Research Project (‘Cyclone Intensity and Track Prediction using Deep Learning’) -> Application Form(PDF)",
+        url: "/e-noticeboard/recruitment/applicationform.pdf",
+        isNew: false,
+      },
+      {
+        title: "Advertisement for the post of Junior Technician",
+        url: "/e-noticeboard/recruitment/Advertisement for the post of Junior Technician.pdf",
+        isNew: false,
+      },
+      {
+        title: "Advertisement for the post of Junior Technician-->Form",
+        url: "/e-noticeboard/recruitment/Form Junior Technician.pdf",
+        isNew: false,
+      },
+      {
+        title: "Shortlisted candidates name for project VLSI(C2S, MeitY)",
+        url: "/e-noticeboard/recruitment/Scan2023-09-11_114447.pdf",
+        isNew: false,
+      },
+      {
+        title: "Corrigendum against Advertisement for the post of Junior Technician",
+        url: "/e-noticeboard/recruitment/Corrigendum against Advertisement for the post of Junior Technician.pdf",
+        isNew: false,
+      },
+      {
+        title: "Provisional Final list of Shortlisted candidates after representation for the post of ‘Registrar’",
+        url: "/e-noticeboard/recruitment/Shortlisted candidates list for website after publishing.pdf",
+        isNew: false,
+      },
+      {
+        title: "Advertisement for Project Associates",
+        url: "/e-noticeboard/recruitment/Advertisement_for_the_post_of_project_Associate.pdf",
+        isNew: false,
+      },
+      {
+        title: "Advertisement for Non-Faculty Positions-Assistant Registrar(Contractual)",
+        url: "/e-noticeboard/recruitment/Advertisement.pdf",
+        isNew: false,
+      },
+      {
+        title: "Application format - Assistant Registrar",
+        url: "/e-noticeboard/recruitment/Application format - Assistant Registrar.pdf",
+        isNew: false,
+      },
+      {
+        title: "Shortlisted candidates list for Registrar",
+        url: "/e-noticeboard/recruitment/Shortlisted candidates list for website_Registrar.pdf",
+        isNew: false,
+      },
       {
         title:
           "Advertisement for Junior Technician (on contract) for Communication/Signal Processing Laboratory",
@@ -163,43 +258,58 @@ const noticeBoardData = [
     title: "Tender",
     children: [
       {
-        title: "Corrigendum for Supply of Answer Scripts",
-        url: "/e-noticeboard/tender/Corrigendum_Answer Scripts.pdf",
+        title: "EOI for Convocation Management",
+        url: "/e-noticeboard/tender/EOI_for_Convocation_Management.pdf",
         isNew: false,
       },
       {
-        title: "Tender for Procurement of Answer Scripts",
-        url: "/e-noticeboard/tender/Tender_for_procurement_of_Answer_Scripts.pdf",
+        title: "Corrigendum Student Medical Insurance",
+        url: "/e-noticeboard/tender/Corrigendum Student Medical Insurance .pdf",
         isNew: false,
       },
       {
-        title: "Tender for Internal Auditor",
-        url: "/e-noticeboard/tender/Tender_for_Internal_Auditor.pdf",
+        title: "EOI Student Medical Insurance",
+        url: "/e-noticeboard/tender/EOI Student Medical Insurance-1.pdf",
         isNew: false,
       },
       {
-        title: "Tender for USB Adapter",
-        url: "/e-noticeboard/tender/Tender_for_USB_Adapter.pdf",
+        title: "Tender for Electric Work",
+        url: "/e-noticeboard/tender/Tender for Electric Work.pdf",
         isNew: false,
       },
       {
-        title: "Corrigendum Supply of USB Adapter",
-        url: "/e-noticeboard/tender/Corrigendum_Supply_of_USB_Adapter.pdf",
+        title: "EOI for Selection of Agency for Supply of Refreshment for Intra College FUTSAL Tournament",
+        url: "/e-noticeboard/tender/EOI.pdf",
         isNew: false,
       },
       {
-        title: "Corrigendum Supply of Sports Items",
-        url: "/e-noticeboard/tender/Corrigendum_Supply_of_Sports_Items.pdf",
+        title: "Corrigendum for Selection of Agency for providing Food for Cultural Day",
+        url: "/e-noticeboard/tender/foodforculturalday.webp",
         isNew: false,
       },
       {
-        title: "Tender for Supply of USB Adapter",
-        url: "/e-noticeboard/tender/Tender_for_Supply_of_USB_Adapter.pdf",
+        title: "Tender for Procurement of Matlab Software",
+        url: "/e-noticeboard/tender/Tender for Procurement of Matlab Software-1.pdf",
         isNew: false,
       },
       {
-        title: "Tender for Supply of Sports Items",
-        url: "/e-noticeboard/tender/Tender_for_Supply_of_Sports_Items.pdf",
+        title: "EOI for Selection of Agency for providing Food for Cultural Day",
+        url: "/e-noticeboard/tender/EOI for Selection of Agency for providing Food for Cultural Day.pdf",
+        isNew: false,
+      },
+      {
+        title: "Tender for Answer Scripts",
+        url: "/e-noticeboard/tender/Tender for Answer Scripts.pdf",
+        isNew: false,
+      },
+      {
+        title: "Corrigendum for Supply of AnswerScripts",
+        url: "/e-noticeboard/tender/Corrigendum for Supply of AnswerScripts.pdf",
+        isNew: false,
+      },
+      {
+        title: "Tender for Marksheets and Certificates",
+        url: "/e-noticeboard/tender/Tender for Marksheets and Certificates.pdf",
         isNew: false,
       },
     ],

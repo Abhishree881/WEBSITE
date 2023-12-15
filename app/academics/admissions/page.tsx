@@ -66,7 +66,7 @@ const array = [
 const Admissions = () => {
   useEffect(() => {
     document.title =
-      "Addmissions | Indian Institute of Information Technology, Kalyani";
+      "Admissions | Indian Institute of Information Technology, Kalyani";
   }, []);
 
   function AdmissionCard(props: { data: any[]; heading: string | number | boolean | React.ReactElement<any, string | React.JSXElementConstructor<any>> | React.ReactFragment | React.ReactPortal | null | undefined; }) {
@@ -108,7 +108,7 @@ const Admissions = () => {
         <NavBar isHomepage={false} />
       </div>
       <div className='why-main-heading'>
-        <h1>Addmissions</h1>
+        <h1>Admissions</h1>
       </div>
       <div className="admissions-container">
         {/* <Sidebar location="" page="Admissions" array={array} /> */}
@@ -119,7 +119,7 @@ const Admissions = () => {
           </div>
 
           <div className="admission-card">
-            <AdmissionCard heading="M.Tech" data={[["Executive M.Tech Admission - 2023", "admissions/pages/mtech", false], ["CEP Admission 2023 - List of Eligible and Not Eligible Candidates", "/admissions/pdfs/mtech/CEP%20Admission%202023%20-%20List%20of%20Eligible%20and%20Not%20Eligible%20Candidates.pdf", true], ["Admission to Executive M.Tech (Artificial Intelligence and Data Science) Program - July 2023 Session", "/admissions/pdfs/mtech/Advertisement-MTech-2023-IIITKalyani.pdf", true], ["Executive M.Tech Program - 2023: Application Form (PDF)", "/admissions/pdfs/mtech/Advertisement-MTech-2023-IIITKalyani.pdf", true], ["Executive M.Tech Program - 2023: Application Form (DOCX)", "/admissions/pdfs/mtech/Advertisement-MTech-2023-IIITKalyani.pdf", true]]} />
+            <AdmissionCard heading="M.Tech" data={[["Executive M.Tech Admission - 2023", "admissions/pages/mtech", false], ["CEP Admission 2023 - List of Eligible and Not Eligible Candidates", "/admissions/pdfs/mtech/CEP%20Admission%202023%20-%20List%20of%20Eligible%20and%20Not%20Eligible%20Candidates.pdf", true], ["Admission to Executive M.Tech (Artificial Intelligence and Data Science) Program - July 2023 Session", "/admissions/pdfs/mtech/Advertisement-MTech-2023-IIITKalyani.pdf", true], ["Executive M.Tech Program - 2023: Application Form (PDF)", "/admissions/pdfs/mtech/Executive-MTech-Application-Form-2023.pdf", true], ["Executive M.Tech Program - 2023: Application Form (DOCX)", "/admissions/pdfs/mtech/Executive-MTech-Application-Form-2023.pdf", true]]} />
           </div>
 
           <div className="admission-card">
